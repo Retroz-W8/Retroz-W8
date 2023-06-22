@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmykolaharmash%2Fgit-jump%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw1TtHcaRZrvh0OOva7guOhf&ust=1687532511253000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiuttGS1_8CFQAAAAAdAAAAABA](https://raw.githubusercontent.com/mykolaharmash/git-jump/main/img/readme-banner.png)_)](https://github.com/Retroz-W8)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Retroz</h1>
 <h3 align="center">Nobody</h3>
 
