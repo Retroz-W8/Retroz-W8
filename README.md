@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://raw.githubusercontent.com/Retroz-W8/Retroz-W8/main/Black%20Technology%20LinkedIn%20Banner.png))](https://rishavchanda.io)
+![logo](https://raw.githubusercontent.com/Retroz-W8/Retroz-W8/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Retroz</h1>
 <h3 align="center">Nobody</h3>
 
