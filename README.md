@@ -1,7 +1,6 @@
 ![logo](https://raw.githubusercontent.com/Retroz-W8/Retroz-W8/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Retroz</h1>
 <h3 align="center">Nobody</h3>
-<img align="right" alt="text" weight = "400" border-radius=23px src="https://raw.githubusercontent.com/Retroz-W8/Retroz-W8/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retroz-w8&label=Profile%20views&color=0e75b6&style=flat" alt="retroz-w8" /> </p>
 
